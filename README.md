@@ -12,7 +12,5 @@ No, it doesn't do much damage. But everything that has been opened on the victim
 I suggest disabling your flipper as soon as a reboot message appears on your computer screen.
 
 --------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------
 
-# What does each script do?
+# (｡•̀ᴗ-)✧ What does each script do?
