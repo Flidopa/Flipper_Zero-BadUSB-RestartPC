@@ -14,3 +14,4 @@ I suggest disabling your flipper as soon as a reboot message appears on your com
 --------------------------------------------------------------------------------------------------
 
 # (｡•̀ᴗ-)✧ What does each script do?
++ Restart_PC_Hack.txt - This script opens notepad and writes in large text "NICE HACK BRO" and then "SAY GOODBYE TO THE PC!". Then it opens cmd and shuts down the computer
