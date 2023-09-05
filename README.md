@@ -13,4 +13,4 @@ I suggest disabling your flipper as soon as a reboot message appears on your com
 
 --------------------------------------------------------------------------------------------------
 
-# (｡•̀ᴗ-)✧ What does each script do?
+#ㅤㅤㅤ (｡•̀ᴗ-)✧ What does each script do?
