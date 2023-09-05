@@ -18,7 +18,7 @@ I suggest disabling your flipper as soon as a reboot message appears on your com
 + Restart_PC_Hack.txt - This script opens notepad and writes in large text "NICE HACK BRO" and then "SAY GOODBYE TO THE PC!". Then it opens cmd and shuts down the computer.
 + Love_Hack.txt - This script opens a notepad and draws a syringe with text and the text " YOU ( ≖‿ ≖ ) HAVE (づ｡ ◕‿‿◕｡)づ BEEN (⺣◡⺣)♡* HACKED ( ︶︿︶)_╭∩╮༘⋆♡⸝⸝⊹。°˖➴LOVE!!!!  /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗"
 And finally using cmd to shut down the computer.
-+ Bsod_Restart - A fake BSOD opens and then the computer reboots.
++ Bsod_Restart.txt - A fake BSOD opens and then the computer reboots.
 
 --------------------------------------------------------------------------------------------------
 
